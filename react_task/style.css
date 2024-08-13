@@ -1,0 +1,31 @@
+.head {
+    padding-top: 10%;
+    font-size: 200%;
+  }
+  .main{
+    background-image: url("https://wallpapers.com/images/hd/black-and-white-aesthetic-pc-9oid64hx02jnxowq.jpg");
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    
+  }
+  .card {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    
+  }
+  
+  .imgclass {
+    width:50%;
+    padding-top: 10%;
+  }
+  .cardtitle {
+    text-align: center;
+  }
+  
+  .card-text {
+    text-align: center;
+  }
+ 
+  
